@@ -30,8 +30,3 @@ a:hover {
 a:active {
     color: #00ffff;
 }
-body {
-    background: linear-gradient(#6D00FC, #330074);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}

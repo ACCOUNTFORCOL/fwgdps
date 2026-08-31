@@ -5,7 +5,7 @@ include 'config.php';
 <html>
 
 <head>
-    <title>GDPS</title>
+    <title>Flamewall GDPS</title>
     <link rel="stylesheet" type="text/css" href="files/style.css">
 </head>
 
